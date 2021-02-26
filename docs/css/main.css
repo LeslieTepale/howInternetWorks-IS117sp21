@@ -23,3 +23,10 @@ h1{
     from { width: 0 }
     to { width: 100% }
 }
+button.carousel{
+    background-color: #726A95;
+    color: white;
+}
+h5{
+    font-family: 'Raleway', sans-serif;
+}
