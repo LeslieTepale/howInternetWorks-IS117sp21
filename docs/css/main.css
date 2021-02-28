@@ -29,7 +29,11 @@ button.carousel{
 }
 h2{
     font-family: 'Raleway', sans-serif;
-    font-size: 33px;
+    font-size: 35px;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
 }
 h5{
     font-family: 'Raleway', sans-serif;
