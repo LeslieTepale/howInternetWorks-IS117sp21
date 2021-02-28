@@ -1,5 +1,5 @@
 body{
-    background-color: #F6F5F5;
+    background-color: #f8f4f1;
     font-family: 'Montserrat', sans-serif;
 
 }
@@ -30,10 +30,12 @@ button.carousel{
 h2{
     font-family: 'Raleway', sans-serif;
     font-size: 35px;
+    color: #351F39;
 }
 h3{
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
+    color: #719FB0;
 }
 h5{
     font-family: 'Raleway', sans-serif;
